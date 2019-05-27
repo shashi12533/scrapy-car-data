@@ -1,0 +1,727 @@
+Part_Brand_id,Part Brand Name,Part_Brand_name_Tags,desc,Part_Brand_Type,Oem_id
+1,behr hella service,behr hella service,-,2,1
+2,mgp,mgp,-,1,1
+3,bosch,bosch,-,2,1
+4,purolator,purolator,-,2,1
+5,ajusa,ajusa,-,2,1
+6,victor reinz,victor reinz,-,2,1
+7,elring,elring,-,2,1
+8,mahle,mahle,-,2,1
+9,remsons,remsons,-,2,1
+10,corteco,corteco,-,2,1
+11,ae,ae,-,2,1
+12,zip,zip,-,2,1
+13,facet,facet,-,2,1
+14,cv psh,cv psh,-,2,1
+15,friesen,friesen,-,2,1
+16,toyata /lexus,toyata /lexus,-,2,1
+17,lucus tvs,lucus tvs,-,2,1
+18,uno minda,uno minda,-,2,1
+19,fae,fae,-,2,1
+20,mfc,mfc,-,2,1
+21,bermi,bermi,-,2,1
+22,delphi,delphi,-,2,1
+23,valeo,valeo,-,2,1
+24,janmor,janmor,-,2,1
+25,ashuki,ashuki,-,2,1
+26,vaico,vaico,-,2,1
+27,ocap,ocap,-,2,1
+28,trw,trw,-,2,1
+29,original imperium,original imperium,-,2,1
+30,optimal,optimal,-,2,1
+31,elstock,elstock,-,2,1
+32,nk,nk,-,2,1
+33,sbs,sbs,-,2,1
+35,monroe,monroe,-,2,1
+36,gabriel,gabriel,-,2,1
+37,lemforder,lemforder,-,2,1
+38,quinton hazell,quinton hazell,-,2,1
+39,moog,moog,-,2,1
+40,lucas - tvs,lucas - tvs,-,2,1
+41,bremi,bremi,-,2,1
+42,ips parts,ips parts,-,2,1
+43,herth+buss jakoparts,herth+buss jakoparts,-,2,1
+44,delco remy,delco remy,-,2,1
+45,powermax,powermax,-,2,1
+46,eurotec,eurotec,-,2,1
+47,alanko,alanko,-,2,1
+48,edr,edr,-,2,1
+50,toyota / lexus,toyota / lexus,-,2,1
+51,era,era,-,2,1
+52,suzuki / maruti,suzuki / maruti,-,2,1
+53,pex,pex,-,2,1
+54,standard,standard,-,2,1
+55,glaser,glaser,-,2,1
+56,japanparts,japanparts,-,2,1
+57,ashika,ashika,-,2,1
+58,japko,japko,-,2,1
+59,fai auto parts,fai auto parts,-,2,1
+60,bga,bga,-,2,1
+61,freccia,freccia,-,2,1
+62,ipsa,ipsa,-,2,1
+63,mahle original,mahle original,-,2,1
+64,perfect circle,perfect circle,-,2,1
+65,glyco,glyco,-,2,1
+66,nps,nps,-,2,1
+67,sachs,sachs,-,2,1
+68,elofic,elofic,-,2,1
+69,denckermann,denckermann,-,2,1
+70,calorstat by vernet,calorstat by vernet,-,2,1
+71,metelli,metelli,-,2,1
+73,payen,payen,-,2,1
+74,goetze,goetze,-,2,1
+76,denso,denso,-,2,1
+77,beru,beru,-,2,1
+78,febi bilstein,febi bilstein,-,2,1
+79,sidat,sidat,-,2,1
+80,elwis royal,elwis royal,-,2,1
+81,bosal,bosal,-,2,1
+82,spark,spark,-,2,1
+83,k&n filters,k&n filters,-,2,1
+84,alco filter,alco filter,-,2,1
+85,asmet,asmet,-,2,1
+86,walker,walker,-,2,1
+87,fonos,fonos,-,2,1
+88,fa,fa,-,2,1
+89,kraft automotive,kraft automotive,-,2,1
+90,ernst,ernst,-,2,1
+91,mts,mts,-,2,1
+92,imasaf,imasaf,-,2,1
+93,asso,asso,-,2,1
+94,veneporte,veneporte,-,2,1
+95,sigam,sigam,-,2,1
+96,lambda,lambda,-,2,1
+97,swag,swag,-,2,1
+98,blue print,blue print,-,2,1
+99,hella,hella,-,2,1
+100,van wezel,van wezel,-,2,1
+101,thermotec,thermotec,-,2,1
+102,aks dasis,aks dasis,-,2,1
+103,calorstat by verne,calorstat by verne,-,2,1
+104,nipparts,nipparts,-,2,1
+105,gates,gates,-,2,1
+106,vemo,vemo,-,2,1
+107,herth+buss jakopar,herth+buss jakopar,-,2,1
+109,dayco,dayco,-,2,1
+110,contitech,contitech,-,2,1
+111,mapco,mapco,-,2,1
+112,skf,skf,-,2,1
+113,hepu,hepu,-,2,1
+114,snr,snr,-,2,1
+115,ina,ina,-,2,1
+116,ruville,ruville,-,2,1
+117,dolz,dolz,-,2,1
+118,airtex,airtex,-,2,1
+119,aisin,aisin,-,2,1
+120,spidan,spidan,-,2,1
+121,kavo parts,kavo parts,-,2,1
+122,meyle,meyle,-,2,1
+123,tvs girling,tvs girling,-,2,1
+124,ert,ert,-,2,1
+125,autofren seinsa,autofren seinsa,-,2,1
+126,girling,girling,-,2,1
+127,brembo,brembo,-,2,1
+128,metzger,metzger,-,2,1
+129,triscan,triscan,-,2,1
+130,fte,fte,-,2,1
+131,cifam,cifam,-,2,1
+132,herth+buss jakopart,herth+buss jakopart,-,2,1
+133,farcom,farcom,-,2,1
+134,fag,fag,-,2,1
+135,a.b.s.,a.b.s.,-,2,1
+136,autokit,autokit,-,2,1
+137,bta,bta,-,2,1
+138,dri,dri,-,2,1
+139,general ricambi,general ricambi,-,2,1
+140,abe,abe,-,2,1
+141,remsa,remsa,-,2,1
+142,frenkit,frenkit,-,2,1
+143,magnum technology,magnum technology,-,2,1
+144,kyb,kyb,-,2,1
+145,first line,first line,-,2,1
+146,borg & beck,borg & beck,-,2,1
+147,stellox,stellox,-,2,1
+148,sheller,sheller,-,2,1
+149,rane madras limite,rane madras limite,-,2,1
+150,talbros,talbros,-,2,1
+151,sidem,sidem,-,2,1
+152,protechnic,protechnic,-,2,1
+153,kawe,kawe,-,2,1
+154,lpr,lpr,-,2,1
+155,ate,ate,-,2,1
+156,ask,ask,-,2,1
+157,ipd,ipd,-,2,1
+158,frap,frap,-,2,1
+159,exedy,exedy,-,2,1
+160,luk,luk,-,2,1
+161,malo,malo,-,2,1
+162,555,555,-,2,1
+163,888,888,-,2,1
+164,abesta,abesta,-,2,1
+165,acdelco,acdelco,-,2,1
+166,acp,acp,-,2,1
+167,adriauto,adriauto,-,2,1
+168,advics,advics,-,2,1
+169,agc,agc,-,2,1
+170,air cab,air cab,-,2,1
+171,air green,air green,-,2,1
+172,akebono,akebono,-,2,1
+173,alca,alca,-,2,1
+174,alkar,alkar,-,2,1
+175,al-ko,al-ko,-,2,1
+176,allied nippon,allied nippon,-,2,1
+177,alpha filter,alpha filter,-,2,1
+178,amc filter,amc filter,-,2,1
+179,amp,amp,-,2,1
+180,anchor,anchor,-,2,1
+181,anco,anco,-,2,1
+182,apex,apex,-,2,1
+183,arb,arb,-,2,1
+184,art,art,-,2,1
+185,ashok leyland,ashok leyland,-,2,1
+186,asimco,asimco,-,2,1
+187,atc,atc,-,2,1
+188,atc-new,atc-new,-,2,1
+189,atek,atek,-,2,1
+190,auger,auger,-,2,1
+191,auto equip,auto equip,-,2,1
+192,autokat,autokat,-,2,1
+193,autolec,autolec,-,2,1
+194,autolite,autolite,-,2,1
+195,automega,automega,-,2,1
+196,autostar,autostar,-,2,1
+197,ava quality cooling,ava quality cooling,-,2,1
+198,banco,banco,-,2,1
+199,bando,bando,-,2,1
+200,banner,banner,-,2,1
+201,bbt,bbt,-,2,1
+202,begel germany,begel germany,-,2,1
+203,behr,behr,-,2,1
+204,beral,beral,-,2,1
+205,besf1ts,besf1ts,-,2,1
+206,bgf,bgf,-,2,1
+207,bilstein,bilstein,-,2,1
+208,bimetal,bimetal,-,2,1
+209,blackbelt,blackbelt,-,2,1
+210,bmc,bmc,-,2,1
+211,bm catalysts,bm catalysts,-,2,1
+212,bmw,bmw,-,2,1
+213,boge,boge,-,2,1
+214,borsehung,borsehung,-,2,1
+215,boss filters,boss filters,-,2,1
+216,bougicord,bougicord,-,2,1
+217,bpw,bpw,-,2,1
+218,breck,breck,-,2,1
+219,breckner,breckner,-,2,1
+220,brisk,brisk,-,2,1
+221,bro-filters,bro-filters,-,2,1
+222,brp,brp,-,2,1
+223,bugatti,bugatti,-,2,1
+224,bw,bw,-,2,1
+225,caffaro,caffaro,-,2,1
+226,camellia,camellia,-,2,1
+227,carlson,carlson,-,2,1
+228,cartechnic,cartechnic,-,2,1
+229,casp,casp,-,2,1
+230,castrol,castrol,-,2,1
+231,cei,cei,-,2,1
+232,central,central,-,2,1
+233,century,century,-,2,1
+234,champion,champion,-,2,1
+235,clean filters,clean filters,-,2,1
+236,clevite,clevite,-,2,1
+237,cnc,cnc,-,2,1
+238,cofap,cofap,-,2,1
+239,cofle,cofle,-,2,1
+240,comline,comline,-,2,1
+241,comma,comma,-,2,1
+242,continental,continental,-,2,1
+243,coolex,coolex,-,2,1
+244,covind,covind,-,2,1
+245,crc,crc,-,2,1
+246,crown,crown,-,2,1
+247,crown gaskets,crown gaskets,-,2,1
+248,cs germany,cs germany,-,2,1
+249,ctc,ctc,-,2,1
+250,ctr,ctr,-,2,1
+251,cx,cx,-,2,1
+252,daewha,daewha,-,2,1
+253,daewoo,daewoo,-,2,1
+254,daf,daf,-,2,1
+255,daido metal,daido metal,-,2,1
+256,daihatsu,daihatsu,-,2,1
+257,daimler,daimler,-,2,1
+258,datsun,datsun,-,2,1
+259,denki,denki,-,2,1
+260,depo,depo,-,2,1
+261,destra,destra,-,2,1
+262,dew,dew,-,2,1
+263,dexwal,dexwal,-,2,1
+264,dfd,dfd,-,2,1
+265,diamond,diamond,-,2,1
+266,did,did,-,2,1
+267,dinex,dinex,-,2,1
+268,dokuro,dokuro,-,2,1
+269,donaldson,donaldson,-,2,1
+270,dongil,dongil,-,2,1
+271,dong yang piston,dong yang piston,-,2,1
+272,doohap,doohap,-,2,1
+273,dpa,dpa,-,2,1
+274,dph,dph,-,2,1
+275,dreik,dreik,-,2,1
+276,drive joy,drive joy,-,2,1
+277,dt spare parts,dt spare parts,-,2,1
+278,dunlop,dunlop,-,2,1
+279,dyg,dyg,-,2,1
+280,dys,dys,-,2,1
+281,eai,eai,-,2,1
+282,egt,egt,-,2,1
+283,eiko,eiko,-,2,1
+284,elegant,elegant,-,2,1
+285,elf,elf,-,2,1
+286,eneos,eneos,-,2,1
+287,energizer,energizer,-,2,1
+288,eps,eps,-,2,1
+289,eristic,eristic,-,2,1
+290,errevi,errevi,-,2,1
+291,etg,etg,-,2,1
+292,euromac,euromac,-,2,1
+293,euroricambi,euroricambi,-,2,1
+294,exide,exide,-,2,1
+295,fa1,fa1,-,2,1
+296,facom,facom,-,2,1
+297,fbk,fbk,-,2,1
+298,fbl,fbl,-,2,1
+299,febest,febest,-,2,1
+300,federal mogul,federal mogul,-,2,1
+301,feituo,feituo,-,2,1
+302,fel-pro,fel-pro,-,2,1
+303,fenner,fenner,-,2,1
+304,ferodo,ferodo,-,2,1
+305,ferrari,ferrari,-,2,1
+306,fersa,fersa,-,2,1
+307,fiamm,fiamm,-,2,1
+308,fiat /jeep/ alfa/ lancia,fiat /jeep/ alfa/ lancia,-,2,1
+309,fic,fic,-,2,1
+310,fifft,fifft,-,2,1
+311,filtron,filtron,-,2,1
+312,fj-tech,fj-tech,-,2,1
+313,fkc,fkc,-,2,1
+314,flag,flag,-,2,1
+315,fleetguard,fleetguard,-,2,1
+316,fomar,fomar,-,2,1
+317,force,force,-,2,1
+318,ford,ford,-,2,1
+319,fortune line,fortune line,-,2,1
+320,fpi,fpi,-,2,1
+321,fram,fram,-,2,1
+322,fuso,fuso,-,2,1
+323,gap korea,gap korea,-,2,1
+324,garrett,garrett,-,2,1
+325,gemco,gemco,-,2,1
+326,gieffe,gieffe,-,2,1
+327,gilard,gilard,-,2,1
+328,gistorne,gistorne,-,2,1
+329,gk,gk,-,2,1
+330,gkn,gkn,-,2,1
+331,glo,glo,-,2,1
+332,global,global,-,2,1
+333,gmb,gmb,-,2,1
+334,gns,gns,-,2,1
+335,gomet,gomet,-,2,1
+336,graf,graf,-,2,1
+337,gsp,gsp,-,2,1
+338,gts,gts,-,2,1
+339,haldex,haldex,-,2,1
+340,hankook,hankook,-,2,1
+341,hans pries,hans pries,-,2,1
+342,harisons,harisons,-,2,1
+343,hart,hart,-,2,1
+344,hasaki,hasaki,-,2,1
+345,hastings,hastings,-,2,1
+346,hatz diesel,hatz diesel,-,2,1
+347,hazet,hazet,-,2,1
+348,hcc,hcc,-,2,1
+349,hc-cargo,hc-cargo,-,2,1
+350,hdk,hdk,-,2,1
+351,helicord,helicord,-,2,1
+352,hella pagid,hella pagid,-,2,1
+353,hengst filter,hengst filter,-,2,1
+354,herthbuss,herthbuss,-,2,1
+355,hindustan,hindustan,-,2,1
+356,hino,hino,-,2,1
+357,hitachi,hitachi,-,2,1
+358,hkt,hkt,-,2,1
+359,hl,hl,-,2,1
+360,hlc,hlc,-,2,1
+361,holset,holset,-,2,1
+362,honda / acura,honda / acura,-,2,1
+363,hsb,hsb,-,2,1
+364,huco,huco,-,2,1
+365,hutchinson,hutchinson,-,2,1
+366,hyundai / kia,hyundai / kia,-,2,1
+367,i cord,i cord,-,2,1
+368,ijl,ijl,-,2,1
+369,iljin,iljin,-,2,1
+370,ims,ims,-,2,1
+371,india piston ltd,india piston ltd,-,2,1
+372,intermotor,intermotor,-,2,1
+373,intervalves,intervalves,-,2,1
+374,isam,isam,-,2,1
+375,iskra,iskra,-,2,1
+376,isuzu,isuzu,-,2,1
+377,itr,itr,-,2,1
+378,iveco,iveco,-,2,1
+379,iwis,iwis,-,2,1
+380,izumi,izumi,-,2,1
+381,jab,jab,-,2,1
+382,jaguar,jaguar,-,2,1
+383,japan cars,japan cars,-,2,1
+384,jfbk,jfbk,-,2,1
+385,jma,jma,-,2,1
+386,jmj,jmj,-,2,1
+387,jost,jost,-,2,1
+388,jp group,jp group,-,2,1
+389,js asakashi,js asakashi,-,2,1
+390,jurid,jurid,-,2,1
+391,kager,kager,-,2,1
+392,kamei,kamei,-,2,1
+393,kamoka,kamoka,-,2,1
+394,kap,kap,-,2,1
+395,karcher,karcher,-,2,1
+396,kashiyama,kashiyama,-,2,1
+397,kato,kato,-,2,1
+398,kawasaki,kawasaki,-,2,1
+399,kbc,kbc,-,2,1
+400,kbx,kbx,-,2,1
+401,keyster,keyster,-,2,1
+402,kf,kf,-,2,1
+403,kg,kg,-,2,1
+404,kgk,kgk,-,2,1
+405,kilen,kilen,-,2,1
+406,klokkerholm,klokkerholm,-,2,1
+407,km auto technik,km auto technik,-,2,1
+408,knecht,knecht,-,2,1
+409,knipex,knipex,-,2,1
+410,knorr-bremse,knorr-bremse,-,2,1
+411,koito,koito,-,2,1
+412,kolbenschmidt,kolbenschmidt,-,2,1
+413,kongsberg automotive,kongsberg automotive,-,2,1
+414,koyo,koyo,-,2,1
+415,kp,kp,-,2,1
+416,kraft,kraft,-,2,1
+417,ksm,ksm,-,2,1
+418,ks tools,ks tools,-,2,1
+419,ktm,ktm,-,2,1
+420,kwp,kwp,-,2,1
+421,kyosan,kyosan,-,2,1
+422,land rover,land rover,-,2,1
+423,lauber,lauber,-,2,1
+424,lema,lema,-,2,1
+425,lesjofors,lesjofors,-,2,1
+426,linex,linex,-,2,1
+427,liqui moly,liqui moly,-,2,1
+428,loctite,loctite,-,2,1
+429,lucas,lucas,-,2,1
+430,lucid,lucid,-,2,1
+431,lumax,lumax,-,2,1
+432,m2,m2,-,2,1
+433,magneti marelli,magneti marelli,-,2,1
+434,mahindra,mahindra,-,2,1
+435,malcorp,malcorp,-,2,1
+436,man,man,-,2,1
+437,mandira,mandira,-,2,1
+438,mando,mando,-,2,1
+439,mann-filter,mann-filter,-,2,1
+440,mark exhaust system ltd,mark exhaust system ltd,-,2,1
+441,maserati,maserati,-,2,1
+442,master-sport,master-sport,-,2,1
+443,matador,matador,-,2,1
+444,matsuko,matsuko,-,2,1
+445,maxpart,maxpart,-,2,1
+446,maxxin,maxxin,-,2,1
+447,mazda,mazda,-,2,1
+448,mbs,mbs,-,2,1
+449,meat & doria,meat & doria,-,2,1
+450,mecafilter,mecafilter,-,2,1
+451,mekra lang,mekra lang,-,2,1
+452,mercedes-benz,mercedes-benz,-,2,1
+453,miba,miba,-,2,1
+454,michelin,michelin,-,2,1
+455,micro,micro,-,2,1
+456,milex,milex,-,2,1
+457,mini,mini,-,2,1
+458,mintex,mintex,-,2,1
+459,mintye,mintye,-,2,1
+460,miraglio,miraglio,-,2,1
+461,misfat,misfat,-,2,1
+462,mitsu,mitsu,-,2,1
+463,mitsubishi,mitsubishi,-,2,1
+464,mitsuboshi,mitsuboshi,-,2,1
+465,miyaco,miyaco,-,2,1
+466,mobil,mobil,-,2,1
+467,mobiletron,mobiletron,-,2,1
+468,monark,monark,-,2,1
+469,montenegro,montenegro,-,2,1
+470,mopisan,mopisan,-,2,1
+471,morse,morse,-,2,1
+472,motair turbolader,motair turbolader,-,2,1
+473,moteurs baudouin.s.a,moteurs baudouin.s.a,-,2,1
+474,motherson auto parts,motherson auto parts,-,2,1
+475,motip,motip,-,2,1
+476,motive gear,motive gear,-,2,1
+477,moto guzzi,moto guzzi,-,2,1
+478,motojet,motojet,-,2,1
+479,motorad,motorad,-,2,1
+480,motul,motul,-,2,1
+481,mowag,mowag,-,2,1
+482,mr. gasket,mr. gasket,-,2,1
+483,mrk,mrk,-,2,1
+484,mrr,mrr,-,2,1
+485,m.s.c,m.s.c,-,2,1
+486,msg,msg,-,2,1
+487,mte-thomson,mte-thomson,-,2,1
+488,mtm,mtm,-,2,1
+489,mtu,mtu,-,2,1
+490,mugen,mugen,-,2,1
+491,muller filter,muller filter,-,2,1
+492,muller mitteltal,muller mitteltal,-,2,1
+493,musashi,musashi,-,2,1
+494,mvi,mvi,-,2,1
+495,mv parts,mv parts,-,2,1
+496,mw,mw,-,2,1
+497,nachi,nachi,-,2,1
+498,nak,nak,-,2,1
+499,nakamoto,nakamoto,-,2,1
+500,nap,nap,-,2,1
+501,napco,napco,-,2,1
+502,narva,narva,-,2,1
+503,national,national,-,2,1
+504,ndc,ndc,-,2,1
+505,neolite,neolite,-,2,1
+506,neolux,neolux,-,2,1
+507,new era,new era,-,2,1
+508,new tech alfa,new tech alfa,-,2,1
+509,ngk,ngk,-,2,1
+510,nhk,nhk,-,2,1
+511,nhn,nhn,-,2,1
+512,nibk,nibk,-,2,1
+513,nikoyo,nikoyo,-,2,1
+514,niles,niles,-,2,1
+515,nissan/infiniti/renault,nissan/infiniti/renault,-,2,1
+516,nissens,nissens,-,2,1
+517,nisshinbo,nisshinbo,-,2,1
+518,nissmo,nissmo,-,2,1
+519,nisto,nisto,-,2,1
+520,nkk,nkk,-,2,1
+521,nkn,nkn,-,2,1
+522,nok,nok,-,2,1
+523,npr,npr,-,2,1
+524,npw,npw,-,2,1
+525,nrf,nrf,-,2,1
+526,n-rocky,n-rocky,-,2,1
+527,nsk,nsk,-,2,1
+528,nural,nural,-,2,1
+529,nwb,nwb,-,2,1
+530,ofm,ofm,-,2,1
+531,ohno,ohno,-,2,1
+532,opel / gm / gmc / chevrolet,opel / gm / gmc / chevrolet,-,2,1
+533,optibelt,optibelt,-,2,1
+534,oran,oran,-,2,1
+535,original birth,original birth,-,2,1
+536,osaka,osaka,-,2,1
+537,osk,osk,-,2,1
+538,osram,osram,-,2,1
+539,paraut,paraut,-,2,1
+540,parts-mall,parts-mall,-,2,1
+541,pe automotive,pe automotive,-,2,1
+542,pentosin,pentosin,-,2,1
+543,perfect_auto,perfect_auto,-,2,1
+544,petex,petex,-,2,1
+545,peugeot / citroen,peugeot / citroen,-,2,1
+546,phc,phc,-,2,1
+547,philips,philips,-,2,1
+548,phira,phira,-,2,1
+549,phoenix,phoenix,-,2,1
+550,piaa,piaa,-,2,1
+551,pierburg,pierburg,-,2,1
+552,pilkington,pilkington,-,2,1
+553,polaris,polaris,-,2,1
+554,polcar,polcar,-,2,1
+555,polmostrow,polmostrow,-,2,1
+556,porsche,porsche,-,2,1
+557,powersprinx,powersprinx,-,2,1
+558,ppg,ppg,-,2,1
+559,prasco,prasco,-,2,1
+560,premier plus,premier plus,-,2,1
+561,purflux,purflux,-,2,1
+562,pyr,pyr,-,2,1
+563,qap,qap,-,2,1
+564,qh,qh,-,2,1
+565,qsten,qsten,-,2,1
+566,quick brake,quick brake,-,2,1
+567,r2a,r2a,-,2,1
+568,rancho,rancho,-,2,1
+569,rane,rane,-,2,1
+570,rane madras limited,rane madras limited,-,2,1
+571,rane/trw,rane/trw,-,2,1
+572,rap,rap,-,2,1
+573,rapid,rapid,-,2,1
+574,raybestos,raybestos,-,2,1
+575,rbi,rbi,-,2,1
+576,rc,rc,-,2,1
+577,renault trucks,renault trucks,-,2,1
+578,rik,rik,-,2,1
+579,riken,riken,-,2,1
+580,rima,rima,-,2,1
+581,roadhouse,roadhouse,-,2,1
+582,romix,romix,-,2,1
+583,rootes,rootes,-,2,1
+584,ror,ror,-,2,1
+585,rosenlew,rosenlew,-,2,1
+586,roulunds rubber,roulunds rubber,-,2,1
+587,rse,rse,-,2,1
+588,rts,rts,-,2,1
+589,sabo,sabo,-,2,1
+590,saf-holland,saf-holland,-,2,1
+591,sakura,sakura,-,2,1
+592,sam,sam,-,2,1
+593,sam ac parts,sam ac parts,-,2,1
+594,sampa,sampa,-,2,1
+595,samyung,samyung,-,2,1
+596,sanden,sanden,-,2,1
+597,sanden vikas,sanden vikas,-,2,1
+598,sangsin brake,sangsin brake,-,2,1
+599,sankei,sankei,-,2,1
+600,sanyco,sanyco,-,2,1
+601,sasic,sasic,-,2,1
+602,sata,sata,-,2,1
+603,sava,sava,-,2,1
+604,sbk,sbk,-,2,1
+605,sbp,sbp,-,2,1
+606,scania,scania,-,2,1
+607,schnieder,schnieder,-,2,1
+608,schomaecker,schomaecker,-,2,1
+609,schopf,schopf,-,2,1
+610,schrader,schrader,-,2,1
+611,sct germany,sct germany,-,2,1
+612,sealed power,sealed power,-,2,1
+613,seco,seco,-,2,1
+614,seiken,seiken,-,2,1
+615,seinsa autofren,seinsa autofren,-,2,1
+616,seiwa,seiwa,-,2,1
+617,sensen,sensen,-,2,1
+618,sh auto parts,sh auto parts,-,2,1
+619,shell,shell,-,2,1
+620,shimahide,shimahide,-,2,1
+621,shin han,shin han,-,2,1
+622,shin hwa,shin hwa,-,2,1
+623,simer,simer,-,2,1
+624,sm,sm,-,2,1
+625,sofima,sofima,-,2,1
+626,sonax,sonax,-,2,1
+627,spark minda,spark minda,-,2,1
+628,spk,spk,-,2,1
+629,ssangyong,ssangyong,-,2,1
+630,s starline,s starline,-,2,1
+631,stabilus,stabilus,-,2,1
+632,standart,standart,-,2,1
+633,stanley,stanley,-,2,1
+634,starline,starline,-,2,1
+635,starindustry),starindustry),-,2,1
+636,steinhof,steinhof,-,2,1
+637,stone,stone,-,2,1
+638,subaru,subaru,-,2,1
+639,subros,subros,-,2,1
+640,sumitomo,sumitomo,-,2,1
+641,sun,sun,-,2,1
+642,super circle,super circle,-,2,1
+643,suplex,suplex,-,2,1
+644,sure filter,sure filter,-,2,1
+645,swf,swf,-,2,1
+646,syndicate,syndicate,-,2,1
+647,tadano,tadano,-,2,1
+648,taiho,taiho,-,2,1
+649,tama,tama,-,2,1
+650,tata,tata,-,2,1
+651,tayen,tayen,-,2,1
+652,tbk,tbk,-,2,1
+653,tcic,tcic,-,2,1
+654,teamec,teamec,-,2,1
+655,tedgum,tedgum,-,2,1
+656,teikin,teikin,-,2,1
+657,tel turbo energy,tel turbo energy,-,2,1
+658,templin,templin,-,2,1
+659,terada,terada,-,2,1
+660,teroson,teroson,-,2,1
+661,tesla,tesla,-,2,1
+662,textar,textar,-,2,1
+663,tezuka,tezuka,-,2,1
+664,thg,thg,-,2,1
+665,tho,tho,-,2,1
+666,thule,thule,-,2,1
+667,tik,tik,-,2,1
+668,timken,timken,-,2,1
+669,tkd,tkd,-,2,1
+670,tng,tng,-,2,1
+671,tokico,tokico,-,2,1
+672,tomex,tomex,-,2,1
+673,tong yang,tong yang,-,2,1
+674,top,top,-,2,1
+675,top drive,top drive,-,2,1
+676,total,total,-,2,1
+677,towai,towai,-,2,1
+678,toyo,toyo,-,2,1
+679,toyota forklift,toyota forklift,-,2,1
+680,tp,tp,-,2,1
+681,trifa,trifa,-,2,1
+682,trucktec,trucktec,-,2,1
+683,trucktechnic,trucktechnic,-,2,1
+684,tsk,tsk,-,2,1
+685,tucker rocky,tucker rocky,-,2,1
+686,turtle wax,turtle wax,-,2,1
+687,tvs,tvs,-,2,1
+688,tw,tw,-,2,1
+689,tyc,tyc,-,2,1
+690,tyg,tyg,-,2,1
+691,uac,uac,-,2,1
+692,ufi,ufi,-,2,1
+693,ulo,ulo,-,2,1
+694,unipoint,unipoint,-,2,1
+695,urw,urw,-,2,1
+696,valvoline,valvoline,-,2,1
+697,varta,varta,-,2,1
+698,vdo,vdo,-,2,1
+699,vic,vic,-,2,1
+700,vika,vika,-,2,1
+701,vir,vir,-,2,1
+702,visteon,visteon,-,2,1
+703,volvo,volvo,-,2,1
+704,volvo trucks,volvo trucks,-,2,1
+705,vw / audi / skoda / seat / vag,vw / audi / skoda / seat / vag,-,2,1
+706,wabco,wabco,-,2,1
+707,waeco,waeco,-,2,1
+708,wagner,wagner,-,2,1
+709,wahler,wahler,-,2,1
+710,wai,wai,-,2,1
+711,webasto,webasto,-,2,1
+712,westfalia,westfalia,-,2,1
+713,westlake,westlake,-,2,1
+714,wichmann,wichmann,-,2,1
+715,wil,wil,-,2,1
+716,wix filters,wix filters,-,2,1
+717,wp,wp,-,2,1
+718,wps,wps,-,2,1
+719,wurth,wurth,-,2,1
+720,wynn’s,wynn’s,-,2,1
+721,yamaha,yamaha,-,2,1
+722,y.c.c.,y.c.c.,-,2,1
+723,yec,yec,-,2,1
+724,ypr,ypr,-,2,1
+725,ysk,ysk,-,2,1
+726,yuasa,yuasa,-,2,1
+727,zen,zen,-,2,1
+728,zexel,zexel,-,2,1
+729,zf,zf,-,2,1
+730,zf parts,zf parts,-,2,1
+731,zimmermann,zimmermann,-,2,1
