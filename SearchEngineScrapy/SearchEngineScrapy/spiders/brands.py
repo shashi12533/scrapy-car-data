@@ -21,7 +21,6 @@ class BrandsSpider(scrapy.Spider):
             data.append(sheet.cell_value(i, 6))
     print(data)
     start_urls = [i for i in data[1500:2000]]
-
     # start_urls = ['https://boodmo.com/catalog/part-nut-6767270/','https://boodmo.com/catalog/part-switch_assy_lighting_turn-6773719/',
     #               'https://boodmo.com/catalog/part-spark_plug-6772555/',
     #               'https://boodmo.com/catalog/part-cushion_glove_box_side-6787085/'
