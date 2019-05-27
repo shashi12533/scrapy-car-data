@@ -8,7 +8,6 @@ import json
 
 
 class BrandsSpider(scrapy.Spider):
-
     name = 'brands'
     allowed_domains = ['http://www.oriparts.com']
     loc = ('../MarutiAutoParts/Ciaz/Ciaz-2-3004.xlsx')
@@ -16,16 +15,17 @@ class BrandsSpider(scrapy.Spider):
     wb = xlrd.open_workbook(loc)
     sheet = wb.sheet_by_index(0)
     sheet.cell_value(0, 6)
-    data=[]
+    data = []
     for i in range(sheet.nrows):
-        if len(sheet.cell_value(i, 6))>15:
+        if len(sheet.cell_value(i, 6)) > 15:
             data.append(sheet.cell_value(i, 6))
     print(data)
-    start_urls = [i for i in data[0:500]]
+    start_urls = [i for i in data[1500:2000]]
+
     # start_urls = ['https://boodmo.com/catalog/part-nut-6767270/','https://boodmo.com/catalog/part-switch_assy_lighting_turn-6773719/',
     #               'https://boodmo.com/catalog/part-spark_plug-6772555/',
     #               'https://boodmo.com/catalog/part-cushion_glove_box_side-6787085/'
-     #]
+    # ]
 
     def __init__(self, category=None):
         self.failed_urls = []
@@ -110,7 +110,7 @@ class BrandsSpider(scrapy.Spider):
         oem_keys = {}
         oem_keys = {'Oem' + str(idx + 1): None for idx in range(10)}
         oem_check = response.xpath("//*[contains(text(), 'OEM Replacement Parts')]")
-        if len(oem_check) > 0 and len(aftermarket_check)==0:
+        if len(oem_check) > 0 and len(aftermarket_check) == 0:
             oem = response.xpath('//*[@id="replacement_parts_page"]/div[2]/div[4]/div[2]/div/div[1]/a')
             oem_keys = {'Oem' + str(idx + 1): None for idx in range(10)}
             for idx in range(len(oem)):
@@ -122,7 +122,7 @@ class BrandsSpider(scrapy.Spider):
                     s = s + "\n"
                 oem_keys.update({"Oem" + str(idx + 1): s})
         else:
-            if len(oem_check)>0:
+            if len(oem_check) > 0:
                 for idx in range(len(oem)):
                     f = oem[idx].xpath('span')
                     s = ""
@@ -174,6 +174,7 @@ class BrandsSpider(scrapy.Spider):
         #     link = selector.xpath("@href").extract_first()
         #     if link[0]=='/':
         #         yield {"link":'https://www.carparts.com'+link}
+
     # link = 'https://www.carparts.com'+link
     # request = response.follow(link, callback=self.parse)
     # yield request.body
@@ -191,11 +192,10 @@ class BrandsSpider(scrapy.Spider):
     #     #     a_selectors = str(response.xpath('//*[@id="articles"]/div/p/text()').extract_first())
     #     yield {brand_name: a_selectors.strip("\n\t")}
 
-    def handle_spider_closed(self,spider, reason):
+    def handle_spider_closed(self, spider, reason):
         self.crawler.stats.set_value('failed_urls', ','.join(spider.failed_urls))
 
     def process_exception(self, response, exception, spider):
         ex_class = "%s.%s" % (exception.__class__.__module__, exception.__class__.__name__)
         self.crawler.stats.inc_value('downloader/exception_count', spider=spider)
         self.crawler.stats.inc_value('downloader/exception_type_count/%s' % ex_class, spider=spider)
-
