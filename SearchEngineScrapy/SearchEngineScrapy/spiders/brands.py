@@ -10,7 +10,7 @@ import json
 class BrandsSpider(scrapy.Spider):
     name = 'brands'
     allowed_domains = ['http://www.oriparts.com']
-    loc = ('../MarutiAutoParts/Ciaz/Ciaz-3-2986.xlsx')
+    loc = ('../MarutiAutoParts/Ciaz/Ciaz-2-3004.xlsx')
     rotate_user_agent = True
     wb = xlrd.open_workbook(loc)
     sheet = wb.sheet_by_index(0)
@@ -19,8 +19,8 @@ class BrandsSpider(scrapy.Spider):
     for i in range(sheet.nrows):
         if len(sheet.cell_value(i, 6)) > 15:
             data.append(sheet.cell_value(i, 6))
-    print(data)
-    start_urls = [i for i in data[0:500]]
+    print(len(data[2000:]))
+    start_urls = [i for i in data[2000:]]
     # start_urls = ['https://boodmo.com/catalog/part-nut-6767270/','https://boodmo.com/catalog/part-switch_assy_lighting_turn-6773719/',
     #               'https://boodmo.com/catalog/part-spark_plug-6772555/',
     #               'https://boodmo.com/catalog/part-cushion_glove_box_side-6787085/'
