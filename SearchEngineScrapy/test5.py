@@ -1,20 +1,34 @@
 
 
-def permute(n,s):
-    if len(s)>n:
-        return
-    if len(s)==n:
-        if s.count("b")<=1 and s.count("c")<=2:
-           l.append(s)
-           return
+
+def repeated(s):
+    a = 2**32
+    for i in s:
+        p  = ord(i)-97
+        h = bin(a)[2:]
+        if h[-(p+1)]=="0":
+            a = a | (1 << p)
+        else:
+            print(s.index(i)-1)
+            break
+    # a = a | (1<<2)
 
 
-    for i in ("a","b","c"):
-        permute(n,s+i)
 
 
-n=3
-s=""
-l=[]
-permute(n,s)
-print(len(l),l)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+s = "loveleetcode"
+repeated(s)
